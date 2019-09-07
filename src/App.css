@@ -1,0 +1,12 @@
+button {
+  font-size: 2ch;
+  background-color: lightblue;
+  margin-right: 1ch;
+}
+button:hover {
+  background-color: aliceblue
+}
+body {
+  background-color: azure;
+  color: darkslategrey;
+}
